@@ -24,7 +24,7 @@ The dataset [Uploading HR attrition.xlsx - Sheet1.csv…]() was obtained from Ka
 - Power BI: Data Analysis and Visualisation
 
 ### Data Cleaning
-The raw dataset from Kaggle was cleaned in Power BI using Power Query before creating visualisations. The following steps were applied:
+The raw dataset from Kaggle was cleaned in Power BI using Power Query  and Excel for a quality check before creating visualisations. The following steps were applied:
 - Data Types: Converted data types for key fields such as age, distance from home, and date fields to ensure accurate analysis.
 - Handling Missing Values: Removed records with null values in critical columns to maintain data integrity.
 - Feature Creation: Created a new column to group job satisfaction scores into categories (e.g., Satisfied, Very Satisfied, Unsatisfied, Very Unsatisfied).
