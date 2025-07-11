@@ -16,7 +16,8 @@
 This project focuses on analysing employee attrition to help the HR department identify patterns and risk factors associated with staff turnover. The Power BI dashboard visualises key metrics that highlight which employee groups are more likely to leave and supports data-driven retention strategies.
 
 ### Data Sources
-The dataset [Uploading HR attrition.xlsx - Sheet1.csv…]() was obtained from Kaggle and includes employee-level data, such as age, job role, tenure, job satisfaction, commute distance, and attrition status. Its structure supports targeted analysis of the factors linked to employee turnover.
+The dataset [Uploading HR attrition.xlsx - Sheet1.csv…]()
+ was obtained from Kaggle and includes employee-level data, such as age, job role, tenure, job satisfaction, commute distance, and attrition status. Its structure supports targeted analysis of the factors linked to employee turnover.
 
 
 ### Tools
